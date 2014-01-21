@@ -1,0 +1,1076 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"key_bind_",
+				"key_bind_activated"
+			],
+			[
+				"key_bind_a",
+				"key_bind_activated"
+			],
+			[
+				"di",
+				"digitalWrite"
+			],
+			[
+				"INP",
+				"input"
+			],
+			[
+				"pin",
+				"pinMode"
+			],
+			[
+				"combo",
+				"combo_4"
+			],
+			[
+				"combo_",
+				"combo_3"
+			],
+			[
+				"com",
+				"combo_1"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"rx",
+				"rx_char"
+			],
+			[
+				"rx_",
+				"rx_char"
+			],
+			[
+				"char",
+				"charAt"
+			],
+			[
+				"prn",
+				"println"
+			],
+			[
+				"btn",
+				"btn_1"
+			],
+			[
+				"read",
+				"readString"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"a",
+				"available"
+			],
+			[
+				"num_",
+				"num_ports"
+			],
+			[
+				"num",
+				"num_ports"
+			],
+			[
+				"com_",
+				"com_list"
+			],
+			[
+				"nu",
+				"num_ports"
+			],
+			[
+				"debu",
+				"debugpinlaststate"
+			],
+			[
+				"button",
+				"button_map"
+			],
+			[
+				"HIGH",
+				"HIGH"
+			],
+			[
+				"se",
+				"send"
+			],
+			[
+				"KEy",
+				"Keyboard"
+			],
+			[
+				"current",
+				"current_pin"
+			],
+			[
+				"cu",
+				"current_pin"
+			],
+			[
+				"leonardo",
+				"leonardo_pin"
+			],
+			[
+				"NUM_",
+				"NUM_BUTTONS"
+			],
+			[
+				"mill",
+				"milis_at_last_on"
+			],
+			[
+				"Leo",
+				"Leonardo_pin"
+			],
+			[
+				"mili",
+				"millis"
+			],
+			[
+				"ke",
+				"key"
+			],
+			[
+				"DEBO",
+				"DEBOUNCE_MS"
+			],
+			[
+				"debo",
+				"debounce_counter"
+			],
+			[
+				"la",
+				"last_state"
+			],
+			[
+				"C",
+				"C_RIGHT"
+			],
+			[
+				"btn_",
+				"btn_bottomRight"
+			],
+			[
+				"btn_b",
+				"btn_bottomLeft"
+			],
+			[
+				"ee",
+				"EEPROM_ADDR"
+			],
+			[
+				"eep",
+				"EEPROM"
+			],
+			[
+				"set",
+				"set_new_keybind"
+			],
+			[
+				"sti",
+				"stick_map"
+			],
+			[
+				"glo",
+				"global_combo_flag"
+			],
+			[
+				"C_",
+				"C_BOTTOM"
+			],
+			[
+				"NUM",
+				"NUM_COMBOS"
+			],
+			[
+				"stick",
+				"stick_map"
+			],
+			[
+				"NUM_S",
+				"NUM_STICK_POSITIONS"
+			],
+			[
+				"NUM_B",
+				"NUM_BUTTONS"
+			],
+			[
+				"EEP",
+				"EEPROM_ADDR"
+			],
+			[
+				"handle_",
+				"handle_stick"
+			],
+			[
+				"J",
+				"joystick_map"
+			],
+			[
+				"handle",
+				"handle_combos"
+			],
+			[
+				"bool",
+				"bool_prog_mode"
+			],
+			[
+				"Pr",
+				"print"
+			],
+			[
+				"prog",
+				"prog_mode"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"in",
+				"incoming"
+			],
+			[
+				"Combo",
+				"combo_map"
+			],
+			[
+				"NUM_C",
+				"NUM_COMBOS-1"
+			],
+			[
+				"key",
+				"key-binding"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"re",
+				"read"
+			],
+			[
+				"joys",
+				"joystick_map"
+			],
+			[
+				"c_",
+				"C_MASH"
+			],
+			[
+				"bt",
+				"btn_topLeft"
+			],
+			[
+				"NU",
+				"NUM_COMBOS"
+			],
+			[
+				"Nu",
+				"NUM_INPUTS"
+			],
+			[
+				"N",
+				"NUM_INPUTS"
+			],
+			[
+				"digi",
+				"digitalRead"
+			],
+			[
+				"EE",
+				"EEPROM_ADDR"
+			],
+			[
+				"MASH",
+				"MASH_TIMEOUT"
+			],
+			[
+				"MA",
+				"MASH_TIMEOUT"
+			],
+			[
+				"ese",
+				"else"
+			],
+			[
+				"debe",
+				"debounced"
+			],
+			[
+				"if",
+				"If"
+			],
+			[
+				"KEY",
+				"KEYMAP"
+			],
+			[
+				"C_l",
+				"C_LEFT"
+			],
+			[
+				"btn_bot",
+				"btn_bottomLeft"
+			],
+			[
+				"btn_to",
+				"btn_topLeft"
+			],
+			[
+				"COM",
+				"COMBO"
+			],
+			[
+				"btn_top",
+				"btn_topRight"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"p",
+				"println"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"get",
+				"get_joy"
+			],
+			[
+				"top",
+				"btn_topLeft"
+			],
+			[
+				"ri",
+				"rightTimer"
+			],
+			[
+				"btn_bo",
+				"btn_bottomRight"
+			],
+			[
+				"btn_bottom",
+				"btn_bottomLeft"
+			],
+			[
+				"LE",
+				"Leonardo_pin"
+			],
+			[
+				"check",
+				"check_mash"
+			],
+			[
+				"scan",
+				"scan_combos"
+			],
+			[
+				"C_L",
+				"C_LEFT"
+			],
+			[
+				"EEPR",
+				"EEPROM_ADDR"
+			],
+			[
+				"ke_",
+				"key_binding"
+			],
+			[
+				"RI",
+				"RIGHT_COMBO"
+			],
+			[
+				"BO",
+				"BOTTOM_COMBO"
+			],
+			[
+				"leo",
+				"Leonardo_pin"
+			],
+			[
+				"btnto",
+				"btn_topRight"
+			],
+			[
+				"bnt",
+				"btn_topLeft"
+			],
+			[
+				"Le",
+				"Leonardo_pin"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"key_",
+				"key_binding"
+			],
+			[
+				"KE",
+				"KEYMAP"
+			],
+			[
+				"KEY_",
+				"KEY_UP_ARROW"
+			],
+			[
+				"de",
+				"default_key_binding"
+			],
+			[
+				"E",
+				"EEPROM_ADDR"
+			],
+			[
+				"e",
+				"EEPROM_ADDRs"
+			],
+			[
+				"joy",
+				"joystick_map"
+			],
+			[
+				"do",
+				"down"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Mark/Desktop/Hack/ESBEN/Leonardo_EEPROM_joystick_V2/Leonardo_EEPROM_joystick_V2.ino",
+			"settings":
+			{
+				"buffer_size": 13276,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Mark/Desktop/Hack/ESBEN/Leonardo_EEPROM_joystick_V3/Leonardo_EEPROM_joystick_V3.ino",
+			"settings":
+			{
+				"buffer_size": 15165,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Mark/Google Drev/timer1_test/timer1_test.c",
+			"settings":
+			{
+				"buffer_size": 432,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Leonardo_EEPROM_joystick_V4a.ino",
+			"settings":
+			{
+				"buffer_size": 15885,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/C/Users/Mark/Desktop/Hack/ESBEN/programmableJoystick2/programmableJoystick2.pde",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Mark/Desktop/Hack/arduino-1.0.1/hardware/arduino/cores/arduino/HID.cpp",
+			"settings":
+			{
+				"buffer_size": 13772,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Mark/Documents/IHA/1. Semester/CPAA/MP3_VU/MP3_VU/main.c",
+			"settings":
+			{
+				"buffer_size": 5988,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Mark/Desktop/Hack/arduino-1.0.1/hardware/arduino/cores/arduino/USBAPI.h",
+			"settings":
+			{
+				"buffer_size": 5224,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Mark/Desktop/Hack/arduino-1.0.1/hardware/arduino/cores/arduino/USBDesc.h",
+			"settings":
+			{
+				"buffer_size": 1872,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Mark/Desktop/Hack/arduino-1.0.1/hardware/arduino/cores/arduino/USBCore.cpp",
+			"settings":
+			{
+				"buffer_size": 13134,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Mark/Desktop/Hack/ESBEN/fifteen_SW_LEONARDO_sendkey/fifteen_SW_LEONARDO_sendkey.ino",
+			"settings":
+			{
+				"buffer_size": 6220,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Mark/Desktop/SimpleMessageSystem.mxb",
+		"/C/Users/Mark/Desktop/HID.cpp",
+		"/C/Users/Mark/Desktop/Hack/arduino-1.0.1/hardware/arduino/cores/arduino/HID.cpp",
+		"/C/Users/Mark/Desktop/Hack/ESBEN/fifteen_SW_LEONARDO/fifteen_SW_LEONARDO.ino",
+		"/C/Users/Mark/Documents/Atmel Studio/8chADC_FINAL/8chADC/main.c",
+		"/C/Users/Mark/Desktop/Hack/DROPPED/NABDUINO/nabduino/unabto/external/Microchip/USB/usb_device.c",
+		"/C/Users/Mark/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Mark/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Mark/Desktop/Hack/ESBEN/Leonardo_EEPROM_joystick_V4a/test.sublime-project",
+		"/C/Users/Mark/Desktop/Hack/ESBEN/15_SW_LEONARDO/15_SW_LEONARDO.ino",
+		"/C/Users/Mark/Desktop/Hack/ESBEN/Leonardo_EEPROM_joystick_V4/Leonardo_EEPROM_joystick_V4.ino",
+		"/C/Users/Mark/Desktop/Hack/arduino-1.0.1/hardware/arduino/cores/arduino/USBAPI.h",
+		"/C/Users/Mark/Desktop/Hack/ISS lamp/ISS_FTW_UDP_VFD_NTP/ISS_FTW_UDP_VFD_NTP.ino",
+		"/C/Users/Mark/Desktop/Hack/ESBEN/Leonardo_EEPROM_joystick/Leonardo_EEPROM_joystick.ino",
+		"/C/Users/Mark/Desktop/PowerCell-v13/PowerCell-v13.brd",
+		"/C/Users/Mark/Desktop/PowerCell-v13/PowerCell-v13.sch",
+		"/C/Users/Mark/Desktop/Hack/ESBEN/Leonardo_EEPROM_joystick_V2/Leonardo_EEPROM_joystick_V2.ino",
+		"/C/Users/Mark/Desktop/Hack/ESBEN/Lonardo_EEPROM_joystick/Lonardo_EEPROM_joystick.ino",
+		"/C/Users/Mark/Documents/Atmel Studio/8chADC_FLASHTEST/8chADC/main.c",
+		"/C/Users/Mark/Desktop/Hack/ESBEN/BindingOfIsaacJoystick/BindingOfIsaacJoystick.ino",
+		"/C/Users/Mark/Desktop/Hack/NERF/Ammo_count/initial_parts_list",
+		"/C/Users/Mark/Desktop/Hack/NERF/Ammo_count/HW/NERF_AMMO_COUNTER.lst",
+		"/C/Users/Mark/Desktop/Hack/Visitkort/SW/nanoPOV.asm",
+		"/C/Users/Mark/Documents/Atmel Studio/NERF_AMMO_COUNT/NERF_AMMO_COUNT/NERF_AMMO_COUNT.c",
+		"/C/Users/Mark/Desktop/LAZOR.txt",
+		"/C/Users/Mark/Documents/Atmel Studio/8chADC_FLASHTEST/8chADC/8chADC.c",
+		"/C/Users/Mark/Desktop/8CH_temp_logger_DUMP_RAW-DO_NOT_EDIT.dat",
+		"/C/Users/Mark/AppData/Roaming/Sublime Text 2/Packages/User/Plain text.sublime-settings"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"HID_SendReport",
+			"_keyReport",
+			"sendReport",
+			"KeyReport",
+			"HID_SendReport",
+			"keys",
+			"D_INTERFACE",
+			"HID_INTERFACE",
+			"_keyReport",
+			"control p5",
+			"();",
+			"key_binding",
+			"Leonardo_pin",
+			"9",
+			"millis_at_last_on",
+			"milis_at_last_on",
+			"last_state",
+			"delay",
+			"last_state",
+			"MS",
+			"FILTER",
+			"FILER",
+			"tekken",
+			"++i",
+			"available",
+			"DANGERZONE",
+			"bool_prog_mode",
+			"mash",
+			"NUM_COMBOS",
+			"7",
+			"\n    combo_map[i]->first = false;             //next time isn't the first\n    combo_map[i]->filter_counter = millis(); //start the clock   \n  ",
+			"for (int i = 0; i < NUM_COMBOS-1; ++i) //MASH COMBO is handled differrently\n",
+			"*combo_map[i].",
+			"*joystick_map[i].",
+			"combo_map",
+			"VFD_da",
+			"rightFirst",
+			"leftFirst",
+			"bottomFirst",
+			"topFirst",
+			"mashFirst",
+			"mashTimer",
+			"rightTimer",
+			"leftTimer",
+			"bottomTimer",
+			"topTimer",
+			"bottomFirst",
+			"topTimer",
+			"bollean",
+			"release",
+			"bitou",
+			"inter"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"leonardo_pin",
+			"millis_at_last_change",
+			"millis_at_last_on",
+			"keypress_sent",
+			"i++",
+			"combo_map[i]->",
+			"joystick_map[i]->",
+			"KEYMAP.C_RIGHT.first",
+			"KEYMAP.C_LEFT.first",
+			"KEYMAP.C_BOTTOM.first",
+			"KEYMAP.C_TOP.first",
+			"KEYMAP.C_MASH.first",
+			"KEYMAP.C_MASH.filter_counter",
+			"KEYMAP.C_RIGHT.filter_counter",
+			"KEYMAP.C_LEFT.filter_counter",
+			"KEYMAP.C_BOTTOM.filter_counter",
+			"KEYMAP.C_TOP.filter_counter",
+			"KEYMAP.C_BOTTOM.first",
+			"KEYMAP.C_TOP.first"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Mark/Desktop/Hack/ESBEN/Leonardo_EEPROM_joystick_V2/Leonardo_EEPROM_joystick_V2.ino",
+					"settings":
+					{
+						"buffer_size": 13276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11950,
+								11950
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3020.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Mark/Desktop/Hack/ESBEN/Leonardo_EEPROM_joystick_V3/Leonardo_EEPROM_joystick_V3.ino",
+					"settings":
+					{
+						"buffer_size": 15165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8216,
+								8216
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4792.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Mark/Google Drev/timer1_test/timer1_test.c",
+					"settings":
+					{
+						"buffer_size": 432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								292
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Leonardo_EEPROM_joystick_V4a.ino",
+					"settings":
+					{
+						"buffer_size": 15885,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7161,
+								7161
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3348.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Mark/Desktop/Hack/ESBEN/programmableJoystick2/programmableJoystick2.pde",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Mark/Desktop/Hack/arduino-1.0.1/hardware/arduino/cores/arduino/HID.cpp",
+					"settings":
+					{
+						"buffer_size": 13772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Mark/Documents/IHA/1. Semester/CPAA/MP3_VU/MP3_VU/main.c",
+					"settings":
+					{
+						"buffer_size": 5988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4025,
+								3453
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1305.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Mark/Desktop/Hack/arduino-1.0.1/hardware/arduino/cores/arduino/USBAPI.h",
+					"settings":
+					{
+						"buffer_size": 5224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4551.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Mark/Desktop/Hack/arduino-1.0.1/hardware/arduino/cores/arduino/USBDesc.h",
+					"settings":
+					{
+						"buffer_size": 1872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1025,
+								1036
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1600.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/Mark/Desktop/Hack/arduino-1.0.1/hardware/arduino/cores/arduino/USBCore.cpp",
+					"settings":
+					{
+						"buffer_size": 13134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3511,
+								3511
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3053.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/Mark/Desktop/Hack/ESBEN/fifteen_SW_LEONARDO_sendkey/fifteen_SW_LEONARDO_sendkey.ino",
+					"settings":
+					{
+						"buffer_size": 6220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								478,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 112.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
