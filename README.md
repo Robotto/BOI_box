@@ -9,7 +9,11 @@ I am especially proud of the arrays of pointers to the structs.
 There's currently 3 versions of the code:
 
 V6: The one with all the combos enabled.
+
 V6_NO_COMBOS: Take a wild guess at how this is different...
+
 V6_SUPERMEATBOY: Tweaked some timing issues and removed some combos to match the gameplay of "Super Meat Boy"
+
+
 
 ~Robotto
